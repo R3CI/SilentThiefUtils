@@ -33,6 +33,7 @@ XMR:
 
 ```
 [3.15.2025]
+1.0.2 - Added a base server 
 1.0.1 - CreditCard Clipper has been added
 1.0.0 - Repository is born
 ```
