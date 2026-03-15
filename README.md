@@ -1,11 +1,55 @@
 # SilentThiefUtils
 
-> **⚠️ README IN PROGRESS — This documentation is still being written.**
-> **⚠️ PROJECT IN PROGRESS — This repository is currently under active development and is not complete.**
+A collection of free and open-source utilities bundled into a single toolkit.
+
+SilentThiefUtils contains small standalone tools focused on demonstrating specific system behaviors and automation concepts. The repository is structured so each module can be used independently while still working as part of the overall toolkit.
 
 ---
 
-## Overview
+## 📦 Included Tools
+
+- **Credit Card Clipper**  
+  Monitors clipboard activity and processes detected data through the backend handler.
+
+---
+
+## ⚙️ Features
+
+- Lightweight utilities
+- Modular structure
+- Simple configuration
+- Open-source and freely available
+
+---
+
+## 🧩 Architecture
+
+The tools are designed to work with a backend service responsible for receiving and organizing generated results.  
+Once configured, modules operate automatically without requiring manual routing or setup.
+
+---
+
+# 💸 Dontions
+```
+BTC:
+ETH:
+LTC: 
+XMR: 
+```
+
+---
+
+## 📜 Changelogs
+
+```
+[3.15.2025]
+1.0.1 - CreditCard Clipper has been added
+1.0.0 - Repository is born
+```
+
+---
+
+# DISCLAIMERS
 
 **SilentThiefUtils** is a research and experimentation project focused on studying malware behavior, security mechanisms, and defensive analysis techniques.
 
@@ -31,8 +75,6 @@ The implementations may be incomplete, experimental, or intentionally simplified
 
 ---
 
-## Intended Use
-
 This project should only be used in **safe and controlled environments**, such as:
 
 * isolated virtual machines
@@ -49,8 +91,6 @@ It is intended for:
 
 ---
 
-## ❗ Disclaimer
-
 By using anything contained in this repository, you acknowledge that:
 
 * The software is provided **for educational and research purposes only**.
@@ -60,8 +100,6 @@ By using anything contained in this repository, you acknowledge that:
 If you choose to compile, modify, or run the code, **you do so entirely at your own risk**.
 
 ---
-
-## Responsibility Notice
 
 The creator of this repository **cannot and will not be held responsible for:**
 
@@ -74,8 +112,6 @@ All responsibility lies with the individual who decides to use or modify the con
 
 ---
 
-## Prohibited Use
-
 You must **NOT** use this repository to:
 
 * target real individuals or organizations
@@ -86,21 +122,6 @@ You must **NOT** use this repository to:
 Any such usage is **against the purpose of this project**.
 
 ---
-
-## Project Status
-
-Current development status:
-
-* 🚧 Under active development
-* 🚧 Documentation incomplete
-* 🚧 Features experimental
-* 🚧 Structure may change at any time
-
-Breaking changes may occur without notice.
-
----
-
-## Final Note
 
 This repository exists **only for learning, research, and experimentation** in cybersecurity and malware analysis.
 
