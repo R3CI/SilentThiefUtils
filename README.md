@@ -3,26 +3,42 @@
 </h1>
 
 <p align="center">
+
    <kbd>
-   <img src="https://raw.githubusercontent.com/R3CI/SilentThiefUtils/main/.github/logo.png">
+      <img 
+         src="https://raw.githubusercontent.com/R3CI/SilentThiefUtils/main/.github/logo.png"
+         width="520"
+      >
    </kbd>
-   <br><br>
 
-   <img src="https://img.shields.io/github/languages/top/R3CI/SilentThiefUtils">
-   <img src="https://img.shields.io/github/stars/R3CI/SilentThiefUtils">
-   <img src="https://img.shields.io/github/forks/R3CI/SilentThiefUtils">
-   <br>
-   <img src="https://img.shields.io/github/last-commit/R3CI/SilentThiefUtils">
-   <img src="https://img.shields.io/github/license/R3CI/SilentThiefUtils">
-   <br>
-   <img src="https://img.shields.io/github/issues/R3CI/SilentThiefUtils">
-   <img src="https://img.shields.io/github/issues-closed/R3CI/SilentThiefUtils">
-   <br><br>
-
-   <img src="https://repobeats.axiom.co/api/embed/04b5a4cdd729d944e5f0f1b8125b4d827b69b9d8.svg">
 </p>
 
----
+<h2 align="center">
+   Join the Telegram Chat
+</h2>
+
+<p align="center">
+   <a href="https://t.me/SilentThiefUtils">
+      https://t.me/SilentThiefUtils
+   </a>
+</p>
+
+<p align="center">
+
+   <img src="https://img.shields.io/github/languages/top/R3CI/SilentThiefUtils?style=flat&color=7CFC9A&labelColor=1f2933">
+   <img src="https://img.shields.io/github/stars/R3CI/SilentThiefUtils?style=flat&color=7CFC9A&labelColor=1f2933">
+   <img src="https://img.shields.io/github/forks/R3CI/SilentThiefUtils?style=flat&color=7CFC9A&labelColor=1f2933">
+   <img src="https://img.shields.io/github/last-commit/R3CI/SilentThiefUtils?style=flat&color=7CFC9A&labelColor=1f2933">
+   <img src="https://img.shields.io/github/license/R3CI/SilentThiefUtils?style=flat&color=7CFC9A&labelColor=1f2933">
+   <img src="https://img.shields.io/github/issues/R3CI/SilentThiefUtils?style=flat&color=7CFC9A&labelColor=1f2933">
+   <img src="https://img.shields.io/github/issues-closed/R3CI/SilentThiefUtils?style=flat&color=7CFC9A&labelColor=1f2933">
+
+   <br><br>
+</p>
+
+<p align="center">
+   <img src="https://repobeats.axiom.co/api/embed/04b5a4cdd729d944e5f0f1b8125b4d827b69b9d8.svg">
+</p>
 
 ## Overview
 
