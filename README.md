@@ -140,7 +140,6 @@ XMR: 8AFKEnQKcGgKq6tuJWdjT75s6Uc6kPF3pJu6tYZnCU5RK4iBdo6rqYXKEAkcF4gpyJ7iGSAUH2X
 If you find the project useful, consider starring the repository:
 
 https://github.com/R3CI/SilentThiefUtils
-```
 
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
