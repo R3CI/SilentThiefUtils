@@ -112,10 +112,10 @@ Inside each tutorial file you will find:
 
 ```
 
-BTC:
-ETH:
-LTC:
-XMR:
+BTC: bc1qtdg05fxtag7khdyp7pkshw9307zvwdshk8kxln
+ETH: 0xFa996eBB72E92c69CcA6413ac868484CE2B185a0
+LTC: LZJXFSUXhaX2dXGMhJwGPxg8MMUig4gTDx
+XMR: 8AFKEnQKcGgKq6tuJWdjT75s6Uc6kPF3pJu6tYZnCU5RK4iBdo6rqYXKEAkcF4gpyJ7iGSAUH2XHqLmtgZFEXRpo1VpZEJJ
 
 ```
 
