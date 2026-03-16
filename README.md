@@ -132,7 +132,7 @@ XMR:
 1.0.2 - Added base server
 1.0.1 - CreditCard Clipper added
 1.0.0 - Repository created
-
+```
 ---
 
 ## ⭐ Support
