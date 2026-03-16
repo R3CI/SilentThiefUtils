@@ -1,41 +1,129 @@
-# SilentThiefUtils
+<h1 align="center">
+   SilentThiefUtils
+</h1>
 
-A collection of free and open-source utilities bundled into a single toolkit.
+<p align="center">
+   <kbd>
+   <img src="https://raw.githubusercontent.com/R3CI/SilentThiefUtils/main/.github/logo.png">
+   </kbd>
+   <br><br>
 
-SilentThiefUtils contains small standalone tools focused on demonstrating specific system behaviors and automation concepts. The repository is structured so each module can be used independently while still working as part of the overall toolkit.
+   <img src="https://img.shields.io/github/languages/top/R3CI/SilentThiefUtils">
+   <img src="https://img.shields.io/github/stars/R3CI/SilentThiefUtils">
+   <img src="https://img.shields.io/github/forks/R3CI/SilentThiefUtils">
+   <br>
+   <img src="https://img.shields.io/github/last-commit/R3CI/SilentThiefUtils">
+   <img src="https://img.shields.io/github/license/R3CI/SilentThiefUtils">
+   <br>
+   <img src="https://img.shields.io/github/issues/R3CI/SilentThiefUtils">
+   <img src="https://img.shields.io/github/issues-closed/R3CI/SilentThiefUtils">
+   <br><br>
+
+   <img src="https://repobeats.axiom.co/api/embed/04b5a4cdd729d944e5f0f1b8125b4d827b69b9d8.svg">
+</p>
+
+---
+
+## Overview
+
+SilentThiefUtils is a collection of free and open-source utilities bundled into a single toolkit.
+
+The repository contains standalone modules focused on demonstrating system behaviors, automation workflows, and backend-driven processing concepts.  
+Each tool is designed to function independently while remaining compatible with the broader toolkit ecosystem.
+
+---
 
 ## 📦 Included Tools
 
 - **Credit Card Clipper**  
   Monitors clipboard activity and processes detected data through the backend handler.
 
+---
+
 ## ⚙️ Features
 
-- Lightweight utilities
-- Modular structure
-- Simple configuration
-- Open-source and freely available
+```
+
+• Lightweight utilities
+• Modular design
+• Independent tool execution
+• Backend-integrated workflow
+• Simple configuration
+• Open-source distribution
+
+```
+
+---
 
 ## 🧩 Architecture
 
-The tools are designed to work with a backend service responsible for receiving and organizing generated results.  
-Once configured, modules operate automatically without requiring manual routing or setup.
+The toolkit operates alongside a backend service responsible for receiving and organizing generated results.
 
-# 💸 Dontions
+Once configured:
+
+- Modules run automatically
+- No manual routing is required
+- Data handling is centralized through the backend service
+
+Each module focuses on a single task while sharing a unified communication structure.
+
+---
+
+## 🚀 Setup / Usage Guide
+
+Each tool contains its **own setup tutorial**.
+
+Navigate into the folder of the module you want to use and read the included documentation.
+
+Example:
+
 ```
+
+creditcard_clipper/TUTORIAL.md
+
+```
+
+Inside each tutorial file you will find:
+
+- setup instructions  
+- configuration steps  
+- usage examples  
+- operational details  
+
+---
+
+## 💸 Donations
+
+```
+
 BTC:
 ETH:
-LTC: 
-XMR: 
+LTC:
+XMR:
+
 ```
 
-## 📜 Changelogs
+---
+
+## 📜 Changelog
 
 ```
 [3.15.2025]
-1.0.2 - Added a base server 
-1.0.1 - CreditCard Clipper has been added
-1.0.0 - Repository is born
+1.0.3 - Revamped readme and made a logo and banner
+
+
+[3.15.2025]
+1.0.2 - Added base server
+1.0.1 - CreditCard Clipper added
+1.0.0 - Repository created
+
+---
+
+## ⭐ Support
+
+If you find the project useful, consider starring the repository:
+
+https://github.com/R3CI/SilentThiefUtils
 ```
 
 <br><br><br><br><br><br><br><br><br><br>
